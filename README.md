@@ -46,7 +46,7 @@ https://github.com/okhovat-ai/rim-engine-DE-LU
 
 ---
 
-## 📊 Technical Focus Areas
+## Technical Focus Areas
 
 - Energy market fundamentals (price, load, RES, imbalance)  
 - Factor construction & normalization  
