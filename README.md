@@ -25,7 +25,7 @@ These tools are designed for **short-term trading**, **volatility forecasting**,
 
 ---
 
-## 🔧 What I Build
+## What I Build
 
 ### **RIM Engine DE-LU (Core Project)**
 A full analytical stack:
