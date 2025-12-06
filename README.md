@@ -10,7 +10,7 @@ MohammadReza Okhovat
 
 ---
 
-👋 About Me
+About Me
 
 I work at the intersection of **European power markets**, **quantitative modeling**, and **AI-driven risk intelligence**.  
 My focus is building systems that extract actionable insights from price, load, RES, and imbalance fundamentals.
@@ -42,7 +42,7 @@ Features:
 - Fully open-source & modular
 
 Repository:  
-👉 https://github.com/okhovat-ai/rim-engine-DE-LU
+https://github.com/okhovat-ai/rim-engine-DE-LU
 
 ---
 
@@ -58,7 +58,7 @@ Repository:
 
 ---
 
-🧠 Current Work
+Current Work
 
 - Expanding RIM Engine into **multi-zone (FR, NL, BE)**  
 - Adding **probabilistic regime transitions**  
@@ -69,7 +69,7 @@ Repository:
 
 ---
 
-🛠️ Tech Stack
+Tech Stack
 
 **Languages:** Python (Pandas, NumPy), SQL  
 **Modeling:** Factor models, z-scores, ramps, volatility metrics  
@@ -80,7 +80,7 @@ Repository:
 
 ---
 
-🚀 Roadmap (Next 90 Days)
+Roadmap (Next 90 Days)
 
 - Add trader-ready signals (spread predictors, scarcity flags)  
 - Build REST API + lightweight dashboard  
@@ -91,7 +91,7 @@ Repository:
 
 ---
 
-📫 Contact
+Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/mohammadreza-okhovat  
 - **GitHub:** https://github.com/okhovat-ai  
