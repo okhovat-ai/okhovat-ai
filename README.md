@@ -94,7 +94,7 @@ Roadmap (Next 90 Days)
 Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/mohammadreza-okhovat  
-- **GitHub:** https://github.com/okhovat-ai  
+- **GitHub:** https://github.com/mr-okhovat  
 - **Email:** mohammadreza.okhovat@gmail.com  
 
 ---
